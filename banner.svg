@@ -48,15 +48,15 @@
   <circle cx="210" cy="200" r="116" fill="none" stroke="url(#cyanPurple)" stroke-width="3" opacity="0.85" />
   <circle cx="210" cy="200" r="122" fill="none" stroke="#58a6ff" stroke-width="1" stroke-dasharray="6, 6" opacity="0.4" />
 
-  <!-- Profile Image Imported Live from GitHub -->
-  <image xlink:href="https://github.com/sudheersagar.png" x="105" y="95" width="210" height="210" clip-path="url(#avatarClip)" />
+  <!-- Profile Image Imported Live from GitHub (SVG 2 & 1.1 Compliant) -->
+  <image href="https://github.com/sudheersagar.png" xlink:href="https://github.com/sudheersagar.png" x="105" y="95" width="210" height="210" clip-path="url(#avatarClip)" />
 
   <!-- Header Typography -->
   <text x="370" y="145" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">
     Sudheer Putti
   </text>
   
-  <text x="370" y="185" fill="#58a6ff" font-family="'Fira Code', monospace, monospace" font-size="19" font-weight="600">
+  <text x="370" y="185" fill="#58a6ff" font-family="'Fira Code', monospace" font-size="19" font-weight="600">
     PeopleSoft ERP Architect | Enterprise Solutions | AI Engineer
   </text>
 
@@ -68,18 +68,19 @@
   <g transform="translate(370, 260)">
     <!-- Pill 1 -->
     <rect x="0" y="0" width="140" height="34" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="70" y="21" fill="#79c0ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle">PeopleTools &amp; AWE</text>
+    <text x="70" y="17" fill="#79c0ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle" dominant-baseline="central">PeopleTools &amp; AWE</text>
 
     <!-- Pill 2 -->
     <rect x="152" y="0" width="130" height="34" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="217" y="21" fill="#d2a8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle">Oracle SQL Tuning</text>
+    <text x="217" y="17" fill="#d2a8ff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle" dominant-baseline="central">Oracle SQL Tuning</text>
 
     <!-- Pill 3 -->
     <rect x="294" y="0" width="165" height="34" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="376" y="21" fill="#7ee787" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle">AI Agents &amp; MCP Tooling</text>
+    <text x="376" y="17" fill="#7ee787" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle" dominant-baseline="central">AI Agents &amp; MCP Tooling</text>
 
     <!-- Pill 4 -->
     <rect x="471" y="0" width="125" height="34" rx="6" fill="#161b22" stroke="#30363d" stroke-width="1" />
-    <text x="533" y="21" fill="#ffa657" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle">Cloud Automation</text>
+    <text x="533" y="17" fill="#ffa657" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="12" font-weight="600" text-anchor="middle" dominant-baseline="central">Cloud Automation</text>
   </g>
 </svg>
+
