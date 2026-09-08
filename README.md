@@ -39,13 +39,8 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,aws,docker,git,bash,js,html,css,vscode" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=py,aws,ai,docker,git,github,bash,js,html,css,vscode" alt="Skills" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sudheersagar&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
 
 ### 💡 Who Am I?
 
@@ -57,11 +52,11 @@ Today, I focus on bridging traditional ERP platforms with modern technologies: a
 
 ### 👨‍💻 About Me
 
-- 🏛️ **Lead Software Engineer & PeopleSoft ERP Lead** at Maricopa Community Colleges.
+- 🏛️ **Lead Software Engineer & PeopleSoft ERP Lead** 
 - 💼 **20+ Years of Enterprise Architecture & Consulting Experience** spanning Campus Solutions (CS), Financials/Supply Chain (FSCM), and Human Capital Management (HCM).
 - 🤖 **AI-Augmented Engineering:** Designing autonomous workflows, MCP integrations, local LLM runtimes (Ollama, OpenCode), and Retrieval-Augmented Generation (RAG).
 - 🛠️ **Open Source Author:** Building zero-dependency, high-performance browser tools for ERP engineers.
-- 🎓 **Education:** Master of Computer Applications (MCA), Osmania University.
+- 🎓 **Education:** Master of Computer Applications (MCA).
 
 ---
 
@@ -102,7 +97,7 @@ Today, I focus on bridging traditional ERP platforms with modern technologies: a
 ---
 
 <h3 align="center">
-⭐ If you find my projects useful, consider giving them a star!
+⭐ If you find my projects useful, consider giving them a star! ⭐
 </h3>
 
 ---
